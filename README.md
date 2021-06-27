@@ -3,7 +3,7 @@
 > This project was copmpleted as part of [MDN's front-end web developer course](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter).
 The goal of this project is to teach you how to use basic HTML tags.
 
-> Live demo [_here_](#)
+> Live demo [_here_](https://rzvl.github.io/marking-up-a-letter/)
 
 
 ## General Information
@@ -33,7 +33,7 @@ Project is: _no longer being worked on_.
 
 ## Acknowledgements
 
-- MDN(https://developer.mozilla.org/) team for providing the text, CSS, and the
+- [MDN](https://developer.mozilla.org/) team for providing the text, CSS, and the
 tutorial.
 
 
